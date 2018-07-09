@@ -1,32 +1,31 @@
 h1 {
-  text-align: center;
-  font-size: 48px;
+    text-align: center;
+    font-size: 48px;
 }
 
-#users{
-  width:500px;
+#users {
+    width: 500px;
 }
 
 .user {
-  display: flex;
-  background:#f4f4f4;
-  padding:10px;
-  margin-bottom:10px;
+    display: flex;
+    background: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
-.user ul{
-  list-style: none;
+.user ul {
+    list-style: none;
 }
 
 .users-container {
-  display: flex;
-  justify-content:center;
-  
+    display: flex;
+    justify-content: center;
 }
 
 .button-container {
-  display: flex;
-  justify-content:center;
+    display: flex;
+    justify-content: center;
 }
 
 button {
